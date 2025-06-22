@@ -1,0 +1,1001 @@
+heart_rate,spo2,temperature,blood_pressure,tip
+123.4,97.2,38.6,143/91,You are overheating. Rest and hydrate.
+83.5,89.5,38.2,115/76,🚨 Emergency! Call for help.
+114.2,97.8,38.2,140/94,You are overheating. Rest and hydrate.
+95.9,89.2,38.9,121/71,🚨 Emergency! Call for help.
+81.1,90.3,38.9,130/80,Low SpO2. Do deep breathing or go outside.
+94.0,89.1,39.0,130/77,🚨 Emergency! Call for help.
+81.7,89.4,36.6,120/75,🚨 Emergency! Call for help.
+109.5,96.8,38.8,125/72,You are overheating. Rest and hydrate.
+82.4,90.2,36.9,111/82,Low SpO2. Do deep breathing or go outside.
+124.1,91.0,38.1,156/89,You are overheating. Rest and hydrate.
+108.7,95.7,38.3,130/74,You are overheating. Rest and hydrate.
+103.5,88.1,38.2,117/80,🚨 Emergency! Call for help.
+91.4,89.8,38.9,115/85,🚨 Emergency! Call for help.
+115.1,86.1,38.4,136/95,🚨 Emergency! Call for help.
+115.9,93.4,36.5,136/92,Low SpO2. Do deep breathing or go outside.
+70.6,93.9,37.3,120/79,Low SpO2. Do deep breathing or go outside.
+116.2,98.3,38.0,147/98,You are overheating. Rest and hydrate.
+66.0,89.6,38.3,115/81,🚨 Emergency! Call for help.
+55.8,97.3,38.5,99/68,Slight fever. Drink water and avoid stress.
+63.2,93.7,38.4,129/78,Low SpO2. Do deep breathing or go outside.
+63.0,98.7,36.1,120/76,All good. Stay healthy!
+102.1,90.7,35.8,123/77,Low SpO2. Do deep breathing or go outside.
+57.0,95.5,36.4,92/66,All good. Stay healthy!
+103.8,89.5,36.8,115/76,🚨 Emergency! Call for help.
+94.5,99.6,37.4,119/80,All good. Stay healthy!
+116.2,92.8,37.4,141/91,Low SpO2. Do deep breathing or go outside.
+81.9,92.6,36.7,129/85,Low SpO2. Do deep breathing or go outside.
+120.9,88.6,36.3,149/90,🚨 Emergency! Call for help.
+92.5,88.7,38.8,116/79,🚨 Emergency! Call for help.
+128.9,85.8,38.6,154/88,🚨 Emergency! Call for help.
+91.3,86.3,36.8,123/77,🚨 Emergency! Call for help.
+72.5,97.7,36.2,128/83,All good. Stay healthy!
+119.4,98.5,38.4,144/99,You are overheating. Rest and hydrate.
+102.7,92.8,36.1,110/84,Low SpO2. Do deep breathing or go outside.
+104.3,94.6,36.3,122/83,Elevated heart rate. Take a walk or rest.
+121.9,86.7,38.8,145/92,🚨 Emergency! Call for help.
+115.8,87.1,35.7,137/86,🚨 Emergency! Call for help.
+82.8,93.9,36.8,114/82,Low SpO2. Do deep breathing or go outside.
+66.6,93.3,35.8,127/77,Low SpO2. Do deep breathing or go outside.
+82.6,94.1,36.1,119/76,All good. Stay healthy!
+94.6,90.8,36.7,122/80,Low SpO2. Do deep breathing or go outside.
+88.6,98.2,39.0,124/73,Slight fever. Drink water and avoid stress.
+97.0,94.1,38.7,118/77,Slight fever. Drink water and avoid stress.
+93.6,99.9,36.3,126/70,All good. Stay healthy!
+57.3,96.9,37.9,96/66,Slight fever. Drink water and avoid stress.
+128.9,99.6,36.9,150/86,Elevated heart rate. Take a walk or rest.
+63.7,98.1,37.3,122/75,All good. Stay healthy!
+114.4,98.3,37.7,151/87,Elevated heart rate. Take a walk or rest.
+126.8,90.9,38.4,151/85,You are overheating. Rest and hydrate.
+74.8,88.0,35.7,129/75,🚨 Emergency! Call for help.
+76.1,92.9,37.1,118/79,Low SpO2. Do deep breathing or go outside.
+58.4,91.6,37.8,103/69,Low SpO2. Do deep breathing or go outside.
+58.3,98.5,36.8,95/66,All good. Stay healthy!
+57.6,91.8,35.9,100/62,Low SpO2. Do deep breathing or go outside.
+61.2,90.5,37.9,128/85,Low SpO2. Do deep breathing or go outside.
+85.5,90.5,38.1,129/76,Low SpO2. Do deep breathing or go outside.
+121.4,88.4,35.7,149/98,🚨 Emergency! Call for help.
+109.0,91.8,38.6,110/83,You are overheating. Rest and hydrate.
+66.8,90.1,38.9,129/79,Low SpO2. Do deep breathing or go outside.
+109.3,87.7,36.8,110/75,🚨 Emergency! Call for help.
+106.4,94.7,38.2,118/84,You are overheating. Rest and hydrate.
+65.1,96.1,36.4,128/79,All good. Stay healthy!
+80.8,88.7,38.3,120/70,🚨 Emergency! Call for help.
+126.1,95.4,35.7,141/89,Elevated heart rate. Take a walk or rest.
+121.9,97.4,38.3,148/97,You are overheating. Rest and hydrate.
+91.4,88.2,36.6,127/82,🚨 Emergency! Call for help.
+122.5,92.0,35.8,152/100,Low SpO2. Do deep breathing or go outside.
+129.3,92.7,37.0,145/96,Low SpO2. Do deep breathing or go outside.
+107.3,88.5,38.6,111/80,🚨 Emergency! Call for help.
+111.7,94.7,38.0,137/85,You are overheating. Rest and hydrate.
+86.5,88.8,35.9,126/85,🚨 Emergency! Call for help.
+116.6,96.0,37.5,147/100,Elevated heart rate. Take a walk or rest.
+123.8,86.3,37.0,143/91,🚨 Emergency! Call for help.
+126.1,97.4,37.3,139/90,Elevated heart rate. Take a walk or rest.
+103.8,97.3,38.6,115/79,You are overheating. Rest and hydrate.
+117.1,98.5,37.6,154/99,Elevated heart rate. Take a walk or rest.
+55.1,96.7,37.5,105/70,Slight fever. Drink water and avoid stress.
+113.9,88.3,36.1,144/100,🚨 Emergency! Call for help.
+105.7,85.4,36.6,111/71,🚨 Emergency! Call for help.
+78.3,91.4,37.0,113/81,Low SpO2. Do deep breathing or go outside.
+119.2,96.9,38.3,148/96,You are overheating. Rest and hydrate.
+105.1,86.6,38.6,120/78,🚨 Emergency! Call for help.
+75.8,93.4,36.9,129/80,Low SpO2. Do deep breathing or go outside.
+88.3,95.1,36.2,112/70,All good. Stay healthy!
+86.1,96.8,38.4,126/74,Slight fever. Drink water and avoid stress.
+56.5,90.8,35.5,98/68,Low SpO2. Do deep breathing or go outside.
+124.8,94.8,36.1,148/90,Elevated heart rate. Take a walk or rest.
+83.8,98.6,36.4,126/71,All good. Stay healthy!
+101.4,99.6,36.5,121/78,Elevated heart rate. Take a walk or rest.
+121.5,96.3,38.0,154/92,You are overheating. Rest and hydrate.
+123.2,97.0,38.9,156/87,You are overheating. Rest and hydrate.
+84.2,97.7,37.1,120/72,All good. Stay healthy!
+76.5,98.2,36.7,125/81,All good. Stay healthy!
+113.3,87.0,36.6,158/85,🚨 Emergency! Call for help.
+61.6,97.5,36.5,121/77,All good. Stay healthy!
+74.9,85.5,36.8,110/72,🚨 Emergency! Call for help.
+93.6,95.5,37.4,116/85,All good. Stay healthy!
+58.6,96.4,35.7,91/70,All good. Stay healthy!
+67.4,96.7,38.3,126/71,Slight fever. Drink water and avoid stress.
+110.4,88.0,38.7,160/96,🚨 Emergency! Call for help.
+55.8,91.5,38.4,110/69,Low SpO2. Do deep breathing or go outside.
+102.9,95.6,37.7,112/83,Elevated heart rate. Take a walk or rest.
+98.2,95.6,38.2,122/74,Slight fever. Drink water and avoid stress.
+92.3,86.4,38.5,113/83,🚨 Emergency! Call for help.
+126.1,94.7,36.1,149/91,Elevated heart rate. Take a walk or rest.
+66.8,90.2,37.8,120/77,Low SpO2. Do deep breathing or go outside.
+79.6,87.3,37.8,111/78,🚨 Emergency! Call for help.
+60.5,98.2,37.3,121/78,All good. Stay healthy!
+111.8,91.4,36.7,145/88,Low SpO2. Do deep breathing or go outside.
+115.7,99.4,38.9,140/94,You are overheating. Rest and hydrate.
+114.8,95.8,35.9,135/87,Elevated heart rate. Take a walk or rest.
+88.1,92.3,38.9,127/79,Low SpO2. Do deep breathing or go outside.
+103.3,95.8,37.5,126/75,Elevated heart rate. Take a walk or rest.
+89.4,96.8,38.9,114/76,Slight fever. Drink water and avoid stress.
+57.8,96.1,38.0,106/69,Slight fever. Drink water and avoid stress.
+125.0,85.3,37.8,154/96,🚨 Emergency! Call for help.
+110.6,94.4,37.3,156/92,Elevated heart rate. Take a walk or rest.
+85.4,98.5,38.7,119/79,Slight fever. Drink water and avoid stress.
+106.4,89.6,37.4,121/80,🚨 Emergency! Call for help.
+97.5,97.0,37.9,117/80,Slight fever. Drink water and avoid stress.
+82.4,90.7,35.7,122/73,Low SpO2. Do deep breathing or go outside.
+107.9,94.5,37.4,118/80,Elevated heart rate. Take a walk or rest.
+94.6,86.9,36.1,122/85,🚨 Emergency! Call for help.
+64.2,95.4,37.2,129/85,All good. Stay healthy!
+112.0,90.0,36.7,142/89,Low SpO2. Do deep breathing or go outside.
+119.0,90.7,37.4,138/95,Low SpO2. Do deep breathing or go outside.
+120.5,86.0,38.1,156/92,🚨 Emergency! Call for help.
+122.8,93.5,39.0,156/95,You are overheating. Rest and hydrate.
+110.4,95.6,35.6,160/91,🚨 Emergency! Call for help.
+99.2,95.6,37.4,113/83,All good. Stay healthy!
+89.4,99.7,37.1,114/73,All good. Stay healthy!
+84.0,89.7,35.9,122/83,🚨 Emergency! Call for help.
+119.4,97.7,37.8,151/96,Elevated heart rate. Take a walk or rest.
+128.4,95.6,37.8,158/89,Elevated heart rate. Take a walk or rest.
+127.3,91.5,36.2,144/95,Low SpO2. Do deep breathing or go outside.
+108.6,94.9,36.8,127/73,Elevated heart rate. Take a walk or rest.
+80.2,87.2,38.3,120/84,🚨 Emergency! Call for help.
+110.8,95.7,36.2,139/97,Elevated heart rate. Take a walk or rest.
+87.2,93.8,36.2,110/72,Low SpO2. Do deep breathing or go outside.
+92.9,88.9,35.6,115/72,🚨 Emergency! Call for help.
+116.6,85.1,37.1,138/96,🚨 Emergency! Call for help.
+122.9,97.9,36.6,136/94,Elevated heart rate. Take a walk or rest.
+69.0,92.0,37.1,126/84,Low SpO2. Do deep breathing or go outside.
+81.9,95.7,37.6,110/84,Slight fever. Drink water and avoid stress.
+58.6,99.5,38.8,107/67,Slight fever. Drink water and avoid stress.
+128.9,93.1,37.8,138/94,Low SpO2. Do deep breathing or go outside.
+87.9,96.5,36.9,114/78,All good. Stay healthy!
+85.4,96.1,36.3,120/76,All good. Stay healthy!
+76.4,96.3,38.3,117/72,Slight fever. Drink water and avoid stress.
+100.0,94.4,36.5,112/75,All good. Stay healthy!
+67.4,97.9,36.2,129/70,All good. Stay healthy!
+120.9,90.4,36.9,146/87,Low SpO2. Do deep breathing or go outside.
+124.6,90.3,35.6,135/100,Low SpO2. Do deep breathing or go outside.
+75.2,86.9,36.6,122/82,🚨 Emergency! Call for help.
+81.0,97.3,35.6,114/71,All good. Stay healthy!
+119.3,93.2,38.0,153/92,You are overheating. Rest and hydrate.
+60.7,89.5,36.2,126/80,🚨 Emergency! Call for help.
+96.0,98.5,36.9,111/77,All good. Stay healthy!
+99.5,91.6,37.6,118/80,Low SpO2. Do deep breathing or go outside.
+106.1,85.1,36.5,118/80,🚨 Emergency! Call for help.
+75.9,86.9,35.5,121/79,🚨 Emergency! Call for help.
+99.0,93.3,38.9,124/84,Low SpO2. Do deep breathing or go outside.
+57.4,85.2,38.2,106/67,🚨 Emergency! Call for help.
+65.0,92.7,37.2,127/79,Low SpO2. Do deep breathing or go outside.
+129.2,86.0,36.1,159/95,🚨 Emergency! Call for help.
+105.4,86.8,37.5,113/81,🚨 Emergency! Call for help.
+86.6,96.8,36.9,114/85,All good. Stay healthy!
+105.4,96.5,35.7,114/84,Elevated heart rate. Take a walk or rest.
+91.7,90.4,37.3,110/85,Low SpO2. Do deep breathing or go outside.
+67.4,88.8,38.7,124/73,🚨 Emergency! Call for help.
+84.6,92.7,36.8,130/81,Low SpO2. Do deep breathing or go outside.
+91.2,98.2,37.4,128/84,All good. Stay healthy!
+115.2,92.1,35.6,155/86,Low SpO2. Do deep breathing or go outside.
+119.8,99.4,38.1,138/86,You are overheating. Rest and hydrate.
+64.5,87.3,35.8,114/76,🚨 Emergency! Call for help.
+86.6,98.1,38.4,118/71,Slight fever. Drink water and avoid stress.
+92.6,89.0,35.6,112/72,🚨 Emergency! Call for help.
+121.0,85.4,38.1,139/98,🚨 Emergency! Call for help.
+74.7,92.1,35.9,128/72,Low SpO2. Do deep breathing or go outside.
+100.9,89.6,38.2,123/84,🚨 Emergency! Call for help.
+111.0,98.4,36.9,150/86,Elevated heart rate. Take a walk or rest.
+93.2,89.2,37.7,123/84,🚨 Emergency! Call for help.
+128.8,97.2,38.4,144/85,You are overheating. Rest and hydrate.
+69.3,85.9,35.6,110/70,🚨 Emergency! Call for help.
+112.5,87.5,37.7,136/95,🚨 Emergency! Call for help.
+76.6,92.1,35.7,127/78,Low SpO2. Do deep breathing or go outside.
+121.9,98.9,36.6,144/89,Elevated heart rate. Take a walk or rest.
+93.8,98.1,38.1,111/70,Slight fever. Drink water and avoid stress.
+95.6,86.7,38.0,126/81,🚨 Emergency! Call for help.
+107.5,93.0,37.2,114/76,Low SpO2. Do deep breathing or go outside.
+99.4,89.0,36.0,130/76,🚨 Emergency! Call for help.
+68.6,93.2,36.9,118/79,Low SpO2. Do deep breathing or go outside.
+66.1,95.7,38.6,120/82,Slight fever. Drink water and avoid stress.
+59.6,99.5,36.9,91/60,All good. Stay healthy!
+90.2,85.8,35.6,124/70,🚨 Emergency! Call for help.
+75.9,96.6,38.0,117/84,Slight fever. Drink water and avoid stress.
+66.5,95.9,38.2,111/75,Slight fever. Drink water and avoid stress.
+96.1,98.4,38.8,127/81,Slight fever. Drink water and avoid stress.
+60.2,86.4,36.1,125/80,🚨 Emergency! Call for help.
+128.7,92.1,37.6,157/88,Low SpO2. Do deep breathing or go outside.
+63.3,97.5,35.9,110/80,All good. Stay healthy!
+89.5,92.8,38.2,114/83,Low SpO2. Do deep breathing or go outside.
+115.3,92.5,36.5,138/94,Low SpO2. Do deep breathing or go outside.
+64.5,88.6,35.7,127/78,🚨 Emergency! Call for help.
+87.8,87.9,37.4,113/72,🚨 Emergency! Call for help.
+73.1,99.8,36.0,122/77,All good. Stay healthy!
+115.1,91.4,37.7,137/93,Low SpO2. Do deep breathing or go outside.
+84.1,85.2,36.2,114/78,🚨 Emergency! Call for help.
+91.8,99.9,36.8,122/78,All good. Stay healthy!
+118.4,94.9,36.7,139/90,Elevated heart rate. Take a walk or rest.
+71.9,98.7,36.2,129/85,All good. Stay healthy!
+58.4,96.4,36.2,94/65,All good. Stay healthy!
+68.4,86.8,35.7,125/85,🚨 Emergency! Call for help.
+88.2,87.2,35.5,112/85,🚨 Emergency! Call for help.
+86.0,89.3,37.0,113/74,🚨 Emergency! Call for help.
+96.1,96.7,37.7,117/76,Slight fever. Drink water and avoid stress.
+122.4,91.4,37.6,150/87,Low SpO2. Do deep breathing or go outside.
+127.9,86.2,36.2,140/86,🚨 Emergency! Call for help.
+114.6,92.4,38.8,155/86,You are overheating. Rest and hydrate.
+103.1,95.3,38.8,125/83,You are overheating. Rest and hydrate.
+62.2,87.6,37.2,124/75,🚨 Emergency! Call for help.
+81.1,99.8,37.9,112/80,Slight fever. Drink water and avoid stress.
+119.7,93.8,36.1,147/97,Low SpO2. Do deep breathing or go outside.
+61.1,87.0,38.5,120/76,🚨 Emergency! Call for help.
+94.7,89.4,38.8,114/76,🚨 Emergency! Call for help.
+90.4,93.9,37.6,127/84,Low SpO2. Do deep breathing or go outside.
+115.1,87.2,36.4,146/90,🚨 Emergency! Call for help.
+88.8,93.4,35.7,113/70,Low SpO2. Do deep breathing or go outside.
+78.6,93.8,35.7,113/76,Low SpO2. Do deep breathing or go outside.
+100.1,85.6,38.9,125/81,🚨 Emergency! Call for help.
+102.5,99.5,39.0,123/73,You are overheating. Rest and hydrate.
+116.2,89.4,37.0,160/86,🚨 Emergency! Call for help.
+77.3,98.6,35.7,119/79,All good. Stay healthy!
+106.9,87.1,37.5,128/75,🚨 Emergency! Call for help.
+106.2,88.4,37.2,121/75,🚨 Emergency! Call for help.
+82.4,91.4,37.7,128/82,Low SpO2. Do deep breathing or go outside.
+78.0,96.5,38.9,116/70,Slight fever. Drink water and avoid stress.
+88.8,94.4,37.9,110/78,Slight fever. Drink water and avoid stress.
+115.0,97.3,36.6,149/100,Elevated heart rate. Take a walk or rest.
+84.8,94.2,35.6,128/74,All good. Stay healthy!
+90.9,94.4,36.7,111/74,All good. Stay healthy!
+57.0,96.8,36.7,109/65,All good. Stay healthy!
+101.6,98.0,37.9,117/76,Elevated heart rate. Take a walk or rest.
+114.3,98.1,38.0,146/85,You are overheating. Rest and hydrate.
+75.0,92.1,37.7,119/73,Low SpO2. Do deep breathing or go outside.
+96.7,99.0,38.4,123/73,Slight fever. Drink water and avoid stress.
+102.7,88.2,38.8,129/82,🚨 Emergency! Call for help.
+126.7,99.5,37.5,150/98,Elevated heart rate. Take a walk or rest.
+83.8,95.1,35.9,118/76,All good. Stay healthy!
+128.5,87.5,37.2,143/96,🚨 Emergency! Call for help.
+118.2,91.6,36.1,151/90,Low SpO2. Do deep breathing or go outside.
+89.7,87.4,37.8,110/75,🚨 Emergency! Call for help.
+86.4,92.5,38.8,121/85,Low SpO2. Do deep breathing or go outside.
+103.2,86.6,36.1,130/72,🚨 Emergency! Call for help.
+89.7,93.9,37.3,117/78,Low SpO2. Do deep breathing or go outside.
+83.4,98.6,36.0,128/76,All good. Stay healthy!
+58.1,86.3,36.4,109/65,🚨 Emergency! Call for help.
+83.9,98.5,35.8,125/74,All good. Stay healthy!
+58.6,98.0,38.8,100/62,Slight fever. Drink water and avoid stress.
+113.6,90.3,36.5,147/100,Low SpO2. Do deep breathing or go outside.
+129.8,91.3,38.5,155/90,You are overheating. Rest and hydrate.
+88.7,95.2,36.1,114/74,All good. Stay healthy!
+110.8,85.7,38.4,138/87,🚨 Emergency! Call for help.
+76.6,94.4,37.6,113/78,Slight fever. Drink water and avoid stress.
+55.1,86.5,37.9,90/64,🚨 Emergency! Call for help.
+94.7,99.4,36.3,119/72,All good. Stay healthy!
+87.3,90.6,35.6,116/77,Low SpO2. Do deep breathing or go outside.
+120.9,94.6,37.6,137/100,Elevated heart rate. Take a walk or rest.
+66.0,94.1,38.4,126/74,Slight fever. Drink water and avoid stress.
+125.9,98.9,38.7,151/90,You are overheating. Rest and hydrate.
+63.1,89.3,35.7,118/70,🚨 Emergency! Call for help.
+87.1,85.3,35.6,113/76,🚨 Emergency! Call for help.
+102.7,96.0,37.0,112/70,Elevated heart rate. Take a walk or rest.
+80.4,95.7,35.7,120/81,All good. Stay healthy!
+85.7,97.9,38.7,114/80,Slight fever. Drink water and avoid stress.
+101.1,91.2,36.5,114/85,Low SpO2. Do deep breathing or go outside.
+85.9,88.3,36.0,111/80,🚨 Emergency! Call for help.
+74.6,93.6,35.7,118/85,Low SpO2. Do deep breathing or go outside.
+60.5,95.0,37.0,119/85,All good. Stay healthy!
+103.6,88.7,36.4,124/76,🚨 Emergency! Call for help.
+97.9,93.2,38.4,130/85,Low SpO2. Do deep breathing or go outside.
+83.9,90.9,38.6,122/73,Low SpO2. Do deep breathing or go outside.
+87.6,87.0,38.2,118/76,🚨 Emergency! Call for help.
+105.9,96.7,36.3,127/85,Elevated heart rate. Take a walk or rest.
+82.8,90.6,38.4,126/81,Low SpO2. Do deep breathing or go outside.
+68.6,89.8,38.5,123/75,🚨 Emergency! Call for help.
+101.5,91.1,38.0,116/84,You are overheating. Rest and hydrate.
+90.2,94.3,37.2,124/85,All good. Stay healthy!
+74.0,93.3,37.1,116/78,Low SpO2. Do deep breathing or go outside.
+99.2,97.1,38.1,116/83,Slight fever. Drink water and avoid stress.
+115.8,89.0,35.6,145/87,🚨 Emergency! Call for help.
+112.1,97.9,38.9,145/100,You are overheating. Rest and hydrate.
+111.2,99.6,38.6,145/93,You are overheating. Rest and hydrate.
+63.5,85.5,37.0,126/74,🚨 Emergency! Call for help.
+96.0,98.5,37.0,125/74,All good. Stay healthy!
+114.9,97.5,38.8,138/85,You are overheating. Rest and hydrate.
+107.3,93.7,37.9,111/76,Low SpO2. Do deep breathing or go outside.
+86.6,91.4,35.9,125/80,Low SpO2. Do deep breathing or go outside.
+121.8,96.4,37.3,135/93,Elevated heart rate. Take a walk or rest.
+79.6,87.0,35.9,112/83,🚨 Emergency! Call for help.
+75.8,91.4,38.6,125/79,Low SpO2. Do deep breathing or go outside.
+75.4,96.4,37.4,129/77,All good. Stay healthy!
+101.7,94.9,36.5,126/70,Elevated heart rate. Take a walk or rest.
+73.1,85.2,36.6,117/72,🚨 Emergency! Call for help.
+74.0,88.0,36.8,129/81,🚨 Emergency! Call for help.
+65.0,96.8,37.2,118/73,All good. Stay healthy!
+118.5,95.7,35.6,146/85,Elevated heart rate. Take a walk or rest.
+104.7,87.5,37.3,129/81,🚨 Emergency! Call for help.
+63.2,97.4,38.2,126/72,Slight fever. Drink water and avoid stress.
+100.8,85.6,35.5,120/77,🚨 Emergency! Call for help.
+62.3,86.9,35.8,110/78,🚨 Emergency! Call for help.
+74.0,92.0,36.4,127/82,Low SpO2. Do deep breathing or go outside.
+77.5,93.7,36.1,110/76,Low SpO2. Do deep breathing or go outside.
+98.3,94.4,37.3,119/84,All good. Stay healthy!
+84.3,88.1,36.3,118/74,🚨 Emergency! Call for help.
+129.8,98.2,37.3,139/99,Elevated heart rate. Take a walk or rest.
+65.7,85.9,36.6,115/83,🚨 Emergency! Call for help.
+127.8,85.5,36.4,143/92,🚨 Emergency! Call for help.
+114.4,88.4,36.6,138/87,🚨 Emergency! Call for help.
+112.9,95.2,37.8,157/98,Elevated heart rate. Take a walk or rest.
+120.2,85.9,36.3,143/96,🚨 Emergency! Call for help.
+112.8,90.0,36.8,159/86,Low SpO2. Do deep breathing or go outside.
+96.8,94.1,37.8,115/78,Slight fever. Drink water and avoid stress.
+102.4,98.3,36.6,115/74,Elevated heart rate. Take a walk or rest.
+103.0,87.1,35.9,114/78,🚨 Emergency! Call for help.
+65.4,93.9,38.2,113/72,Low SpO2. Do deep breathing or go outside.
+101.0,95.8,38.1,127/80,You are overheating. Rest and hydrate.
+102.1,93.8,36.9,127/79,Low SpO2. Do deep breathing or go outside.
+63.9,88.0,38.2,113/72,🚨 Emergency! Call for help.
+90.3,90.6,35.6,115/80,Low SpO2. Do deep breathing or go outside.
+109.3,93.4,35.6,126/85,Low SpO2. Do deep breathing or go outside.
+104.7,99.9,37.0,113/82,Elevated heart rate. Take a walk or rest.
+80.4,94.3,36.6,115/73,All good. Stay healthy!
+128.3,94.0,35.9,153/92,Elevated heart rate. Take a walk or rest.
+110.9,96.6,37.3,152/90,Elevated heart rate. Take a walk or rest.
+100.2,87.9,36.1,123/83,🚨 Emergency! Call for help.
+122.3,88.7,36.1,135/96,🚨 Emergency! Call for help.
+108.2,97.5,37.3,113/83,Elevated heart rate. Take a walk or rest.
+94.9,89.2,36.7,129/78,🚨 Emergency! Call for help.
+118.8,86.5,36.7,146/88,🚨 Emergency! Call for help.
+129.2,90.4,37.1,135/93,Low SpO2. Do deep breathing or go outside.
+63.9,97.7,36.0,127/79,All good. Stay healthy!
+116.7,88.6,35.5,147/100,🚨 Emergency! Call for help.
+125.4,94.9,35.6,142/90,Elevated heart rate. Take a walk or rest.
+111.2,96.8,36.6,149/93,Elevated heart rate. Take a walk or rest.
+127.0,91.8,37.7,159/86,Low SpO2. Do deep breathing or go outside.
+111.3,88.1,37.4,150/95,🚨 Emergency! Call for help.
+111.6,99.6,36.8,154/97,Elevated heart rate. Take a walk or rest.
+77.1,91.2,36.2,126/85,Low SpO2. Do deep breathing or go outside.
+68.1,98.1,37.8,113/70,Slight fever. Drink water and avoid stress.
+106.4,86.5,39.0,130/72,🚨 Emergency! Call for help.
+77.1,86.2,37.8,119/73,🚨 Emergency! Call for help.
+119.7,97.7,37.8,145/94,Elevated heart rate. Take a walk or rest.
+68.2,90.3,37.1,123/74,Low SpO2. Do deep breathing or go outside.
+103.9,91.5,36.1,117/77,Low SpO2. Do deep breathing or go outside.
+111.6,98.8,37.6,135/92,Elevated heart rate. Take a walk or rest.
+82.7,86.4,37.1,115/84,🚨 Emergency! Call for help.
+63.3,95.2,36.5,126/83,All good. Stay healthy!
+57.6,86.0,35.6,108/60,🚨 Emergency! Call for help.
+70.0,98.8,37.3,111/70,All good. Stay healthy!
+61.6,92.1,35.6,117/77,Low SpO2. Do deep breathing or go outside.
+112.9,90.4,38.6,145/93,You are overheating. Rest and hydrate.
+94.9,99.7,37.4,124/77,All good. Stay healthy!
+58.1,85.4,36.2,90/64,🚨 Emergency! Call for help.
+93.3,92.4,38.7,110/72,Low SpO2. Do deep breathing or go outside.
+98.6,96.0,39.0,122/81,Slight fever. Drink water and avoid stress.
+87.0,99.1,36.0,128/82,All good. Stay healthy!
+98.3,99.6,36.0,111/82,All good. Stay healthy!
+78.8,94.6,38.8,117/79,Slight fever. Drink water and avoid stress.
+118.3,93.3,38.9,145/93,You are overheating. Rest and hydrate.
+113.7,86.3,38.0,147/98,🚨 Emergency! Call for help.
+104.9,85.7,36.2,118/82,🚨 Emergency! Call for help.
+85.4,99.0,37.2,115/72,All good. Stay healthy!
+128.0,87.6,35.7,141/92,🚨 Emergency! Call for help.
+87.6,87.0,37.5,114/71,🚨 Emergency! Call for help.
+106.3,99.3,35.6,114/82,Elevated heart rate. Take a walk or rest.
+65.3,97.3,38.6,119/75,Slight fever. Drink water and avoid stress.
+98.0,89.9,37.1,110/77,🚨 Emergency! Call for help.
+128.8,88.1,36.8,142/90,🚨 Emergency! Call for help.
+126.3,92.3,36.6,158/88,Low SpO2. Do deep breathing or go outside.
+108.8,90.1,36.7,126/72,Low SpO2. Do deep breathing or go outside.
+64.6,95.5,36.3,110/80,All good. Stay healthy!
+70.9,92.2,36.5,123/79,Low SpO2. Do deep breathing or go outside.
+84.1,89.4,36.6,119/72,🚨 Emergency! Call for help.
+82.2,93.4,36.7,117/81,Low SpO2. Do deep breathing or go outside.
+92.1,89.7,37.0,112/70,🚨 Emergency! Call for help.
+109.5,85.1,38.3,110/84,🚨 Emergency! Call for help.
+63.1,88.6,38.3,128/80,🚨 Emergency! Call for help.
+115.5,90.0,38.8,145/99,You are overheating. Rest and hydrate.
+56.5,90.7,35.9,100/67,Low SpO2. Do deep breathing or go outside.
+128.6,99.5,38.8,153/96,You are overheating. Rest and hydrate.
+84.3,96.8,36.4,116/84,All good. Stay healthy!
+63.0,97.4,35.8,121/75,All good. Stay healthy!
+56.2,85.8,37.0,91/64,🚨 Emergency! Call for help.
+56.9,95.6,37.2,108/66,All good. Stay healthy!
+64.3,93.6,37.1,129/76,Low SpO2. Do deep breathing or go outside.
+127.1,86.3,35.5,160/90,🚨 Emergency! Call for help.
+120.7,94.1,37.4,140/88,Elevated heart rate. Take a walk or rest.
+88.9,86.8,35.5,111/78,🚨 Emergency! Call for help.
+90.7,88.7,36.4,114/75,🚨 Emergency! Call for help.
+86.1,98.6,37.5,122/76,Slight fever. Drink water and avoid stress.
+107.7,95.8,36.8,120/82,Elevated heart rate. Take a walk or rest.
+76.0,94.0,36.1,127/75,All good. Stay healthy!
+130.0,93.4,38.1,158/87,You are overheating. Rest and hydrate.
+80.6,95.2,35.9,126/77,All good. Stay healthy!
+90.7,97.6,35.7,121/83,All good. Stay healthy!
+72.2,90.2,38.2,129/84,Low SpO2. Do deep breathing or go outside.
+108.8,92.8,36.2,127/82,Low SpO2. Do deep breathing or go outside.
+74.5,95.8,38.9,114/74,Slight fever. Drink water and avoid stress.
+69.0,89.5,36.2,127/82,🚨 Emergency! Call for help.
+84.9,85.8,36.7,129/74,🚨 Emergency! Call for help.
+77.1,96.5,37.9,127/77,Slight fever. Drink water and avoid stress.
+62.0,91.7,38.5,122/72,Low SpO2. Do deep breathing or go outside.
+104.0,90.8,36.9,117/75,Low SpO2. Do deep breathing or go outside.
+89.2,87.5,35.5,122/80,🚨 Emergency! Call for help.
+127.2,96.7,37.3,148/86,Elevated heart rate. Take a walk or rest.
+116.4,92.7,37.0,139/88,Low SpO2. Do deep breathing or go outside.
+98.3,97.5,36.9,117/83,All good. Stay healthy!
+96.4,86.9,38.0,113/81,🚨 Emergency! Call for help.
+89.5,95.2,36.7,121/73,All good. Stay healthy!
+96.5,96.7,35.5,117/85,All good. Stay healthy!
+69.8,90.7,35.7,113/71,Low SpO2. Do deep breathing or go outside.
+68.5,86.0,38.0,121/71,🚨 Emergency! Call for help.
+62.4,98.1,37.9,125/83,Slight fever. Drink water and avoid stress.
+116.0,85.8,36.2,140/97,🚨 Emergency! Call for help.
+114.3,91.1,37.6,139/100,Low SpO2. Do deep breathing or go outside.
+127.7,96.5,35.6,160/89,🚨 Emergency! Call for help.
+56.2,85.2,35.9,106/69,🚨 Emergency! Call for help.
+75.4,89.0,38.0,114/85,🚨 Emergency! Call for help.
+89.7,99.3,38.8,119/77,Slight fever. Drink water and avoid stress.
+81.3,91.0,38.6,115/80,Low SpO2. Do deep breathing or go outside.
+106.8,89.1,37.7,113/75,🚨 Emergency! Call for help.
+114.8,90.2,35.7,147/92,Low SpO2. Do deep breathing or go outside.
+75.6,98.4,37.4,124/71,All good. Stay healthy!
+77.7,99.7,37.8,117/84,Slight fever. Drink water and avoid stress.
+94.0,96.3,38.4,116/72,Slight fever. Drink water and avoid stress.
+93.3,95.6,38.7,110/71,Slight fever. Drink water and avoid stress.
+105.3,99.9,36.9,128/81,Elevated heart rate. Take a walk or rest.
+70.9,96.4,38.6,117/73,Slight fever. Drink water and avoid stress.
+129.7,89.4,36.6,146/99,🚨 Emergency! Call for help.
+122.2,93.6,38.3,158/86,You are overheating. Rest and hydrate.
+122.7,93.3,38.1,136/96,You are overheating. Rest and hydrate.
+126.8,85.8,37.1,142/93,🚨 Emergency! Call for help.
+75.7,89.7,38.6,119/85,🚨 Emergency! Call for help.
+122.6,91.3,36.0,157/99,Low SpO2. Do deep breathing or go outside.
+101.4,94.9,37.5,122/81,Elevated heart rate. Take a walk or rest.
+121.1,99.3,36.5,147/98,Elevated heart rate. Take a walk or rest.
+102.4,90.5,36.4,124/74,Low SpO2. Do deep breathing or go outside.
+117.0,93.8,36.8,153/86,Low SpO2. Do deep breathing or go outside.
+72.8,92.2,38.2,115/76,Low SpO2. Do deep breathing or go outside.
+111.4,94.9,37.4,157/94,Elevated heart rate. Take a walk or rest.
+97.9,85.5,35.8,123/76,🚨 Emergency! Call for help.
+123.2,93.7,38.6,156/100,You are overheating. Rest and hydrate.
+84.5,87.5,37.9,124/85,🚨 Emergency! Call for help.
+114.2,96.0,35.5,160/87,🚨 Emergency! Call for help.
+66.5,90.9,37.8,116/74,Low SpO2. Do deep breathing or go outside.
+118.6,89.2,38.7,152/95,🚨 Emergency! Call for help.
+100.1,86.1,36.1,123/73,🚨 Emergency! Call for help.
+109.5,89.0,36.7,121/84,🚨 Emergency! Call for help.
+59.4,91.3,38.5,99/62,Low SpO2. Do deep breathing or go outside.
+124.3,86.3,36.5,135/93,🚨 Emergency! Call for help.
+57.2,90.3,36.8,97/67,Low SpO2. Do deep breathing or go outside.
+107.1,85.7,38.7,122/74,🚨 Emergency! Call for help.
+79.2,93.9,35.9,111/77,Low SpO2. Do deep breathing or go outside.
+93.9,91.9,35.6,111/74,Low SpO2. Do deep breathing or go outside.
+76.1,95.3,35.9,122/74,All good. Stay healthy!
+92.3,92.3,36.0,118/76,Low SpO2. Do deep breathing or go outside.
+82.1,86.4,37.5,113/77,🚨 Emergency! Call for help.
+128.9,86.7,38.6,144/96,🚨 Emergency! Call for help.
+89.2,86.7,35.9,120/71,🚨 Emergency! Call for help.
+59.8,90.9,36.7,107/70,Low SpO2. Do deep breathing or go outside.
+55.1,92.8,37.6,102/65,Low SpO2. Do deep breathing or go outside.
+68.5,95.2,37.4,129/74,All good. Stay healthy!
+73.1,95.4,37.5,122/74,Slight fever. Drink water and avoid stress.
+125.6,94.8,36.1,152/87,Elevated heart rate. Take a walk or rest.
+105.5,97.5,38.7,119/83,You are overheating. Rest and hydrate.
+96.8,85.8,37.8,123/82,🚨 Emergency! Call for help.
+109.8,88.6,38.3,114/72,🚨 Emergency! Call for help.
+90.8,89.4,36.4,114/85,🚨 Emergency! Call for help.
+82.1,95.7,35.9,114/79,All good. Stay healthy!
+98.2,88.1,39.0,125/72,🚨 Emergency! Call for help.
+65.8,98.4,36.5,126/72,All good. Stay healthy!
+107.3,93.3,38.4,114/82,You are overheating. Rest and hydrate.
+115.0,96.3,35.7,150/90,Elevated heart rate. Take a walk or rest.
+61.4,94.1,36.1,124/84,All good. Stay healthy!
+98.5,91.1,38.8,111/70,Low SpO2. Do deep breathing or go outside.
+120.5,91.5,36.4,135/85,Low SpO2. Do deep breathing or go outside.
+105.8,93.8,37.2,125/77,Low SpO2. Do deep breathing or go outside.
+71.0,99.0,37.0,124/77,All good. Stay healthy!
+116.0,91.1,36.9,150/96,Low SpO2. Do deep breathing or go outside.
+100.2,91.6,36.4,117/74,Low SpO2. Do deep breathing or go outside.
+129.7,96.8,37.6,151/91,Elevated heart rate. Take a walk or rest.
+82.3,86.9,35.7,116/73,🚨 Emergency! Call for help.
+119.4,98.8,37.7,149/87,Elevated heart rate. Take a walk or rest.
+84.4,94.1,36.6,111/71,All good. Stay healthy!
+70.5,99.7,36.6,124/74,All good. Stay healthy!
+78.2,97.2,37.5,123/77,Slight fever. Drink water and avoid stress.
+88.9,96.4,38.5,114/75,Slight fever. Drink water and avoid stress.
+117.7,91.1,37.4,137/93,Low SpO2. Do deep breathing or go outside.
+76.3,88.0,38.7,110/81,🚨 Emergency! Call for help.
+66.0,87.6,37.2,123/78,🚨 Emergency! Call for help.
+86.9,90.4,38.5,110/83,Low SpO2. Do deep breathing or go outside.
+111.8,90.6,37.4,137/88,Low SpO2. Do deep breathing or go outside.
+97.0,92.8,38.4,115/73,Low SpO2. Do deep breathing or go outside.
+126.9,87.6,36.6,159/99,🚨 Emergency! Call for help.
+128.3,94.2,38.8,149/97,You are overheating. Rest and hydrate.
+90.8,91.0,36.6,120/79,Low SpO2. Do deep breathing or go outside.
+81.0,96.4,38.8,129/74,Slight fever. Drink water and avoid stress.
+129.1,93.1,36.6,157/88,Low SpO2. Do deep breathing or go outside.
+58.3,85.2,38.2,110/70,🚨 Emergency! Call for help.
+96.3,99.9,36.1,111/78,All good. Stay healthy!
+94.6,88.8,37.2,130/77,🚨 Emergency! Call for help.
+94.0,94.9,36.1,123/82,All good. Stay healthy!
+83.1,91.0,38.1,114/77,Low SpO2. Do deep breathing or go outside.
+112.8,86.5,38.9,151/87,🚨 Emergency! Call for help.
+74.9,87.8,36.6,117/76,🚨 Emergency! Call for help.
+90.3,87.2,36.4,120/78,🚨 Emergency! Call for help.
+110.7,89.1,37.2,154/89,🚨 Emergency! Call for help.
+103.0,92.5,35.8,129/73,Low SpO2. Do deep breathing or go outside.
+98.3,98.7,35.7,112/71,All good. Stay healthy!
+88.8,94.9,39.0,111/74,Slight fever. Drink water and avoid stress.
+66.3,85.1,36.9,130/75,🚨 Emergency! Call for help.
+89.8,92.9,37.7,124/78,Low SpO2. Do deep breathing or go outside.
+82.5,92.0,38.4,117/85,Low SpO2. Do deep breathing or go outside.
+69.3,96.3,35.6,115/73,All good. Stay healthy!
+75.5,96.0,35.5,124/84,All good. Stay healthy!
+79.2,90.2,37.3,116/83,Low SpO2. Do deep breathing or go outside.
+121.6,86.0,36.0,141/96,🚨 Emergency! Call for help.
+59.1,87.8,38.7,96/64,🚨 Emergency! Call for help.
+62.3,97.0,36.6,119/85,All good. Stay healthy!
+74.6,97.3,37.6,126/72,Slight fever. Drink water and avoid stress.
+82.9,88.4,39.0,116/72,🚨 Emergency! Call for help.
+126.6,95.5,38.5,149/88,You are overheating. Rest and hydrate.
+112.1,90.0,37.6,156/86,Low SpO2. Do deep breathing or go outside.
+105.7,98.9,37.0,110/78,Elevated heart rate. Take a walk or rest.
+99.4,96.8,37.8,121/78,Slight fever. Drink water and avoid stress.
+77.3,99.1,38.6,124/81,Slight fever. Drink water and avoid stress.
+119.9,88.3,36.9,140/88,🚨 Emergency! Call for help.
+79.0,94.8,37.7,110/74,Slight fever. Drink water and avoid stress.
+72.7,88.5,36.7,120/85,🚨 Emergency! Call for help.
+88.3,94.6,35.6,110/85,All good. Stay healthy!
+108.0,96.6,38.2,129/81,You are overheating. Rest and hydrate.
+58.9,97.8,37.4,108/66,All good. Stay healthy!
+57.4,93.5,38.1,92/63,Low SpO2. Do deep breathing or go outside.
+87.3,99.6,37.0,120/72,All good. Stay healthy!
+120.7,92.2,35.8,153/100,Low SpO2. Do deep breathing or go outside.
+95.2,87.8,36.0,120/78,🚨 Emergency! Call for help.
+77.9,92.2,36.6,125/73,Low SpO2. Do deep breathing or go outside.
+105.1,93.5,38.5,110/78,You are overheating. Rest and hydrate.
+110.7,98.1,36.1,140/98,Elevated heart rate. Take a walk or rest.
+118.3,87.4,38.7,156/97,🚨 Emergency! Call for help.
+129.4,87.4,37.9,160/88,🚨 Emergency! Call for help.
+121.9,93.0,38.3,142/98,You are overheating. Rest and hydrate.
+58.3,96.3,35.6,94/66,All good. Stay healthy!
+63.4,87.0,38.6,128/78,🚨 Emergency! Call for help.
+109.7,97.3,37.6,118/76,Elevated heart rate. Take a walk or rest.
+72.6,94.0,37.9,110/84,Slight fever. Drink water and avoid stress.
+98.6,99.7,37.3,121/71,All good. Stay healthy!
+122.7,91.6,36.6,137/87,Low SpO2. Do deep breathing or go outside.
+111.5,90.1,36.3,146/89,Low SpO2. Do deep breathing or go outside.
+94.9,88.2,39.0,124/75,🚨 Emergency! Call for help.
+92.3,94.6,37.3,120/81,All good. Stay healthy!
+81.0,87.9,36.6,130/74,🚨 Emergency! Call for help.
+111.8,91.9,38.5,160/98,🚨 Emergency! Call for help.
+67.5,86.7,38.4,119/72,🚨 Emergency! Call for help.
+115.1,87.9,36.0,146/97,🚨 Emergency! Call for help.
+92.8,87.2,35.6,118/79,🚨 Emergency! Call for help.
+81.5,91.0,37.6,129/73,Low SpO2. Do deep breathing or go outside.
+121.0,85.5,38.5,148/99,🚨 Emergency! Call for help.
+103.2,90.3,36.5,115/74,Low SpO2. Do deep breathing or go outside.
+57.0,93.3,38.8,103/66,Low SpO2. Do deep breathing or go outside.
+92.6,97.6,38.8,115/74,Slight fever. Drink water and avoid stress.
+93.4,91.9,36.1,123/77,Low SpO2. Do deep breathing or go outside.
+77.3,91.0,37.4,123/75,Low SpO2. Do deep breathing or go outside.
+104.8,97.7,38.9,125/85,You are overheating. Rest and hydrate.
+92.0,85.2,37.2,121/78,🚨 Emergency! Call for help.
+57.6,91.5,37.3,102/67,Low SpO2. Do deep breathing or go outside.
+124.1,87.6,36.3,152/91,🚨 Emergency! Call for help.
+91.9,90.9,35.6,130/77,Low SpO2. Do deep breathing or go outside.
+88.1,85.5,37.3,125/75,🚨 Emergency! Call for help.
+62.3,92.2,37.1,120/85,Low SpO2. Do deep breathing or go outside.
+101.9,90.5,37.6,125/84,Low SpO2. Do deep breathing or go outside.
+116.8,85.8,35.6,155/96,🚨 Emergency! Call for help.
+65.0,96.9,36.9,125/83,All good. Stay healthy!
+129.4,95.8,37.1,149/100,Elevated heart rate. Take a walk or rest.
+128.1,98.9,38.9,137/99,You are overheating. Rest and hydrate.
+130.0,89.2,38.6,148/100,🚨 Emergency! Call for help.
+126.6,87.4,37.3,158/100,🚨 Emergency! Call for help.
+125.0,89.9,37.3,147/90,🚨 Emergency! Call for help.
+91.5,99.4,36.5,121/81,All good. Stay healthy!
+80.8,85.7,37.5,111/85,🚨 Emergency! Call for help.
+80.9,93.4,35.8,126/80,Low SpO2. Do deep breathing or go outside.
+107.2,97.4,38.7,117/75,You are overheating. Rest and hydrate.
+97.5,85.6,37.1,130/80,🚨 Emergency! Call for help.
+126.3,99.5,38.9,146/97,You are overheating. Rest and hydrate.
+86.2,92.0,35.9,129/77,Low SpO2. Do deep breathing or go outside.
+103.5,98.3,38.0,110/82,You are overheating. Rest and hydrate.
+83.2,94.2,37.0,117/71,All good. Stay healthy!
+106.2,90.6,37.4,118/74,Low SpO2. Do deep breathing or go outside.
+56.4,93.8,36.5,105/63,Low SpO2. Do deep breathing or go outside.
+59.0,98.6,38.2,90/62,Slight fever. Drink water and avoid stress.
+124.6,96.6,37.4,149/100,Elevated heart rate. Take a walk or rest.
+57.1,88.1,36.2,96/64,🚨 Emergency! Call for help.
+96.0,91.8,37.8,115/73,Low SpO2. Do deep breathing or go outside.
+58.2,99.9,38.9,93/70,Slight fever. Drink water and avoid stress.
+123.2,91.2,36.0,145/87,Low SpO2. Do deep breathing or go outside.
+126.0,97.8,37.5,138/91,Elevated heart rate. Take a walk or rest.
+124.2,89.8,38.6,146/86,🚨 Emergency! Call for help.
+76.1,92.0,39.0,114/71,Low SpO2. Do deep breathing or go outside.
+127.0,86.5,37.2,148/89,🚨 Emergency! Call for help.
+63.3,90.5,37.5,124/75,Low SpO2. Do deep breathing or go outside.
+108.9,94.0,36.7,123/85,Elevated heart rate. Take a walk or rest.
+68.7,97.2,38.6,114/72,Slight fever. Drink water and avoid stress.
+110.6,86.8,36.2,153/95,🚨 Emergency! Call for help.
+114.6,87.7,37.3,146/90,🚨 Emergency! Call for help.
+80.0,85.6,37.0,121/80,🚨 Emergency! Call for help.
+95.7,90.8,37.9,122/73,Low SpO2. Do deep breathing or go outside.
+76.3,93.3,38.9,110/85,Low SpO2. Do deep breathing or go outside.
+70.0,95.8,36.7,123/81,All good. Stay healthy!
+98.3,94.8,36.4,129/81,All good. Stay healthy!
+63.0,99.8,35.8,119/80,All good. Stay healthy!
+106.1,98.0,36.6,123/74,Elevated heart rate. Take a walk or rest.
+108.2,97.6,38.1,123/85,You are overheating. Rest and hydrate.
+67.0,99.9,38.8,123/81,Slight fever. Drink water and avoid stress.
+78.4,98.4,36.5,130/76,All good. Stay healthy!
+106.5,96.7,36.1,122/79,Elevated heart rate. Take a walk or rest.
+93.6,95.0,38.6,123/81,Slight fever. Drink water and avoid stress.
+90.8,91.4,35.8,122/85,Low SpO2. Do deep breathing or go outside.
+86.0,88.3,37.5,119/85,🚨 Emergency! Call for help.
+65.8,97.7,38.7,119/74,Slight fever. Drink water and avoid stress.
+113.0,95.6,37.8,142/92,Elevated heart rate. Take a walk or rest.
+57.6,88.4,36.7,102/67,🚨 Emergency! Call for help.
+65.9,96.1,36.6,117/79,All good. Stay healthy!
+72.4,96.0,36.5,118/84,All good. Stay healthy!
+95.8,96.2,38.9,126/76,Slight fever. Drink water and avoid stress.
+70.2,98.9,37.1,115/84,All good. Stay healthy!
+63.8,99.8,37.6,124/81,Slight fever. Drink water and avoid stress.
+107.2,94.2,37.6,123/77,Elevated heart rate. Take a walk or rest.
+87.1,99.6,37.9,112/73,Slight fever. Drink water and avoid stress.
+98.1,86.7,36.1,117/75,🚨 Emergency! Call for help.
+90.6,86.2,36.0,126/73,🚨 Emergency! Call for help.
+88.6,94.5,38.1,124/74,Slight fever. Drink water and avoid stress.
+80.8,94.7,38.5,110/83,Slight fever. Drink water and avoid stress.
+56.3,91.4,37.9,108/63,Low SpO2. Do deep breathing or go outside.
+73.2,96.2,38.9,128/85,Slight fever. Drink water and avoid stress.
+55.3,99.0,38.6,97/69,Slight fever. Drink water and avoid stress.
+101.7,95.2,37.4,124/70,Elevated heart rate. Take a walk or rest.
+126.3,88.2,37.2,160/91,🚨 Emergency! Call for help.
+72.8,93.7,36.4,117/82,Low SpO2. Do deep breathing or go outside.
+128.0,91.5,38.1,154/89,You are overheating. Rest and hydrate.
+126.4,85.5,38.9,151/95,🚨 Emergency! Call for help.
+59.5,96.8,36.2,101/64,All good. Stay healthy!
+116.7,87.1,35.9,143/100,🚨 Emergency! Call for help.
+58.3,100.0,38.3,97/66,Slight fever. Drink water and avoid stress.
+72.4,87.2,36.3,129/79,🚨 Emergency! Call for help.
+126.5,90.5,39.0,160/90,🚨 Emergency! Call for help.
+122.6,95.7,37.5,154/97,Elevated heart rate. Take a walk or rest.
+56.6,88.2,37.1,107/61,🚨 Emergency! Call for help.
+96.7,98.9,36.0,113/83,All good. Stay healthy!
+87.1,86.6,36.4,129/84,🚨 Emergency! Call for help.
+61.8,92.5,37.3,128/82,Low SpO2. Do deep breathing or go outside.
+75.7,91.5,37.2,118/74,Low SpO2. Do deep breathing or go outside.
+96.5,87.7,38.5,130/77,🚨 Emergency! Call for help.
+65.0,90.9,36.2,116/79,Low SpO2. Do deep breathing or go outside.
+101.7,97.9,35.7,115/78,Elevated heart rate. Take a walk or rest.
+102.4,98.2,37.7,113/81,Elevated heart rate. Take a walk or rest.
+109.7,93.6,37.6,127/78,Low SpO2. Do deep breathing or go outside.
+102.2,88.8,37.5,123/72,🚨 Emergency! Call for help.
+74.6,85.7,37.1,124/77,🚨 Emergency! Call for help.
+104.5,99.7,37.8,113/78,Elevated heart rate. Take a walk or rest.
+110.9,93.9,38.1,136/92,You are overheating. Rest and hydrate.
+116.7,85.1,36.4,158/99,🚨 Emergency! Call for help.
+94.6,85.1,38.6,126/82,🚨 Emergency! Call for help.
+55.7,93.9,39.0,105/69,Low SpO2. Do deep breathing or go outside.
+100.5,91.1,38.6,130/81,You are overheating. Rest and hydrate.
+70.6,98.6,37.8,120/82,Slight fever. Drink water and avoid stress.
+121.5,96.5,36.2,150/90,Elevated heart rate. Take a walk or rest.
+117.1,95.6,36.0,155/86,Elevated heart rate. Take a walk or rest.
+91.1,90.0,37.1,122/73,Low SpO2. Do deep breathing or go outside.
+102.3,95.2,37.7,117/81,Elevated heart rate. Take a walk or rest.
+89.8,89.6,37.6,127/85,🚨 Emergency! Call for help.
+78.9,94.4,37.1,113/78,All good. Stay healthy!
+128.7,99.6,39.0,151/95,You are overheating. Rest and hydrate.
+107.4,87.1,36.9,120/78,🚨 Emergency! Call for help.
+73.0,96.4,37.1,117/81,All good. Stay healthy!
+64.1,92.4,37.0,122/83,Low SpO2. Do deep breathing or go outside.
+105.2,86.0,38.5,129/78,🚨 Emergency! Call for help.
+103.1,91.2,37.5,122/81,Low SpO2. Do deep breathing or go outside.
+66.6,90.2,38.2,121/71,Low SpO2. Do deep breathing or go outside.
+108.3,92.2,37.9,127/77,Low SpO2. Do deep breathing or go outside.
+105.3,87.9,38.3,119/82,🚨 Emergency! Call for help.
+105.4,92.2,37.2,125/74,Low SpO2. Do deep breathing or go outside.
+89.2,92.6,36.3,117/72,Low SpO2. Do deep breathing or go outside.
+111.3,94.7,37.8,145/89,Elevated heart rate. Take a walk or rest.
+127.7,93.7,36.2,135/100,Low SpO2. Do deep breathing or go outside.
+111.4,99.5,38.6,153/91,You are overheating. Rest and hydrate.
+69.4,98.4,36.1,119/82,All good. Stay healthy!
+81.2,97.0,38.8,129/72,Slight fever. Drink water and avoid stress.
+66.5,98.5,38.3,117/71,Slight fever. Drink water and avoid stress.
+71.0,85.8,36.1,127/77,🚨 Emergency! Call for help.
+83.1,98.0,38.6,121/78,Slight fever. Drink water and avoid stress.
+123.3,91.5,37.2,142/91,Low SpO2. Do deep breathing or go outside.
+109.9,95.7,36.9,122/75,Elevated heart rate. Take a walk or rest.
+118.7,96.1,36.3,142/99,Elevated heart rate. Take a walk or rest.
+111.8,98.5,38.2,152/94,You are overheating. Rest and hydrate.
+93.4,94.8,37.9,110/72,Slight fever. Drink water and avoid stress.
+91.3,87.9,37.9,125/82,🚨 Emergency! Call for help.
+106.0,86.9,36.3,122/81,🚨 Emergency! Call for help.
+105.2,86.2,38.0,114/85,🚨 Emergency! Call for help.
+100.6,92.9,37.3,122/76,Low SpO2. Do deep breathing or go outside.
+108.1,88.6,35.7,110/73,🚨 Emergency! Call for help.
+118.9,90.5,36.5,135/94,Low SpO2. Do deep breathing or go outside.
+114.7,87.4,35.8,152/97,🚨 Emergency! Call for help.
+79.3,96.6,38.3,113/77,Slight fever. Drink water and avoid stress.
+124.0,97.3,38.5,136/91,You are overheating. Rest and hydrate.
+105.3,93.0,36.3,125/74,Low SpO2. Do deep breathing or go outside.
+121.0,98.7,37.5,151/90,Elevated heart rate. Take a walk or rest.
+109.1,89.1,36.4,114/82,🚨 Emergency! Call for help.
+101.6,86.4,37.3,122/82,🚨 Emergency! Call for help.
+67.1,95.2,35.7,130/80,All good. Stay healthy!
+59.2,95.9,35.9,93/62,All good. Stay healthy!
+60.1,90.7,36.3,117/85,Low SpO2. Do deep breathing or go outside.
+90.9,88.6,38.1,127/78,🚨 Emergency! Call for help.
+115.5,96.0,36.2,142/94,Elevated heart rate. Take a walk or rest.
+99.2,96.9,37.6,112/72,Slight fever. Drink water and avoid stress.
+120.6,86.9,36.8,141/98,🚨 Emergency! Call for help.
+69.0,98.2,35.9,118/70,All good. Stay healthy!
+110.7,91.8,38.5,141/86,You are overheating. Rest and hydrate.
+96.9,95.4,38.0,123/74,Slight fever. Drink water and avoid stress.
+90.6,88.1,37.5,114/82,🚨 Emergency! Call for help.
+93.3,95.8,36.3,121/75,All good. Stay healthy!
+88.2,85.7,36.4,113/76,🚨 Emergency! Call for help.
+95.0,93.6,38.6,115/79,Low SpO2. Do deep breathing or go outside.
+75.3,90.3,37.2,126/75,Low SpO2. Do deep breathing or go outside.
+105.1,96.3,36.6,119/78,Elevated heart rate. Take a walk or rest.
+70.1,94.6,37.6,117/71,Slight fever. Drink water and avoid stress.
+110.0,85.2,36.9,123/76,🚨 Emergency! Call for help.
+104.8,96.9,38.4,113/78,You are overheating. Rest and hydrate.
+81.0,92.4,38.6,123/83,Low SpO2. Do deep breathing or go outside.
+100.7,90.9,37.9,129/81,Low SpO2. Do deep breathing or go outside.
+88.2,92.4,36.6,121/80,Low SpO2. Do deep breathing or go outside.
+116.7,85.0,38.4,154/90,🚨 Emergency! Call for help.
+88.6,85.0,35.6,124/80,🚨 Emergency! Call for help.
+85.1,99.0,38.2,124/78,Slight fever. Drink water and avoid stress.
+113.7,96.6,35.6,140/98,Elevated heart rate. Take a walk or rest.
+69.0,87.4,38.9,114/81,🚨 Emergency! Call for help.
+97.8,86.3,36.8,122/78,🚨 Emergency! Call for help.
+89.6,95.5,37.7,125/83,Slight fever. Drink water and avoid stress.
+97.6,99.6,36.9,121/80,All good. Stay healthy!
+93.6,89.3,38.5,124/71,🚨 Emergency! Call for help.
+116.8,92.4,36.4,137/97,Low SpO2. Do deep breathing or go outside.
+117.9,86.8,37.8,151/86,🚨 Emergency! Call for help.
+86.8,91.5,38.0,127/70,Low SpO2. Do deep breathing or go outside.
+74.7,95.6,35.8,118/78,All good. Stay healthy!
+115.6,86.5,37.8,153/86,🚨 Emergency! Call for help.
+65.3,85.9,37.1,129/71,🚨 Emergency! Call for help.
+58.0,97.3,37.5,106/69,Slight fever. Drink water and avoid stress.
+78.2,98.8,38.1,116/80,Slight fever. Drink water and avoid stress.
+64.2,94.3,36.6,120/82,All good. Stay healthy!
+56.1,95.6,35.6,96/60,All good. Stay healthy!
+118.3,90.9,36.5,139/95,Low SpO2. Do deep breathing or go outside.
+118.8,85.9,37.3,160/93,🚨 Emergency! Call for help.
+76.9,89.4,37.0,120/76,🚨 Emergency! Call for help.
+92.2,95.8,35.7,130/79,All good. Stay healthy!
+59.3,91.5,37.6,105/65,Low SpO2. Do deep breathing or go outside.
+93.3,89.5,35.8,112/83,🚨 Emergency! Call for help.
+62.5,87.8,35.8,117/81,🚨 Emergency! Call for help.
+75.1,91.4,37.4,125/79,Low SpO2. Do deep breathing or go outside.
+105.7,95.2,38.1,127/78,You are overheating. Rest and hydrate.
+78.4,86.9,38.4,117/77,🚨 Emergency! Call for help.
+128.7,97.5,35.6,150/86,Elevated heart rate. Take a walk or rest.
+79.2,89.8,37.2,111/82,🚨 Emergency! Call for help.
+59.8,90.5,38.9,100/69,Low SpO2. Do deep breathing or go outside.
+110.3,86.9,35.8,159/94,🚨 Emergency! Call for help.
+83.5,88.0,36.0,125/85,🚨 Emergency! Call for help.
+82.6,99.0,38.7,122/72,Slight fever. Drink water and avoid stress.
+79.1,95.6,38.0,112/76,Slight fever. Drink water and avoid stress.
+128.5,99.0,38.4,156/96,You are overheating. Rest and hydrate.
+60.7,93.4,36.3,119/79,Low SpO2. Do deep breathing or go outside.
+61.5,96.3,38.5,113/70,Slight fever. Drink water and avoid stress.
+104.1,85.2,35.5,128/79,🚨 Emergency! Call for help.
+108.9,88.7,36.7,124/77,🚨 Emergency! Call for help.
+109.8,87.7,36.2,117/78,🚨 Emergency! Call for help.
+117.9,85.6,36.1,138/99,🚨 Emergency! Call for help.
+84.3,98.3,35.8,130/84,All good. Stay healthy!
+103.4,86.5,35.6,127/70,🚨 Emergency! Call for help.
+84.7,91.1,38.9,119/81,Low SpO2. Do deep breathing or go outside.
+76.9,95.1,38.6,128/83,Slight fever. Drink water and avoid stress.
+56.7,92.2,36.1,95/66,Low SpO2. Do deep breathing or go outside.
+114.5,93.7,37.5,136/92,Low SpO2. Do deep breathing or go outside.
+75.6,98.9,36.4,123/83,All good. Stay healthy!
+84.7,88.7,37.9,119/81,🚨 Emergency! Call for help.
+127.3,91.3,36.2,146/100,Low SpO2. Do deep breathing or go outside.
+87.3,98.4,36.3,113/78,All good. Stay healthy!
+124.2,92.7,36.0,135/91,Low SpO2. Do deep breathing or go outside.
+63.5,86.8,36.9,116/72,🚨 Emergency! Call for help.
+127.3,86.8,35.6,146/91,🚨 Emergency! Call for help.
+62.8,97.5,36.1,127/71,All good. Stay healthy!
+126.5,86.4,37.8,149/100,🚨 Emergency! Call for help.
+119.0,90.5,37.6,143/85,Low SpO2. Do deep breathing or go outside.
+103.7,88.1,37.4,113/82,🚨 Emergency! Call for help.
+127.6,87.4,37.0,144/97,🚨 Emergency! Call for help.
+116.1,93.8,38.8,148/93,You are overheating. Rest and hydrate.
+59.3,98.9,36.1,106/67,All good. Stay healthy!
+99.3,98.6,37.9,124/75,Slight fever. Drink water and avoid stress.
+103.7,85.1,37.8,117/85,🚨 Emergency! Call for help.
+118.4,94.6,37.9,160/85,🚨 Emergency! Call for help.
+116.4,91.6,36.4,137/87,Low SpO2. Do deep breathing or go outside.
+122.8,87.2,36.2,135/86,🚨 Emergency! Call for help.
+81.0,93.1,36.3,118/80,Low SpO2. Do deep breathing or go outside.
+55.8,98.5,38.0,94/61,Slight fever. Drink water and avoid stress.
+108.6,90.5,37.5,119/83,Low SpO2. Do deep breathing or go outside.
+120.1,86.7,36.2,138/96,🚨 Emergency! Call for help.
+115.3,98.1,38.1,142/100,You are overheating. Rest and hydrate.
+81.3,88.6,36.7,122/76,🚨 Emergency! Call for help.
+104.9,99.8,36.1,130/79,Elevated heart rate. Take a walk or rest.
+77.3,85.4,35.5,126/75,🚨 Emergency! Call for help.
+89.2,97.4,38.2,117/85,Slight fever. Drink water and avoid stress.
+106.2,96.3,37.3,122/81,Elevated heart rate. Take a walk or rest.
+87.1,89.3,35.7,130/74,🚨 Emergency! Call for help.
+67.0,99.1,36.7,126/81,All good. Stay healthy!
+97.9,93.8,35.9,117/79,Low SpO2. Do deep breathing or go outside.
+128.3,92.2,37.1,157/91,Low SpO2. Do deep breathing or go outside.
+83.2,92.2,35.8,115/77,Low SpO2. Do deep breathing or go outside.
+111.3,93.6,38.1,153/92,You are overheating. Rest and hydrate.
+68.9,98.7,38.3,121/70,Slight fever. Drink water and avoid stress.
+74.6,96.7,38.1,123/70,Slight fever. Drink water and avoid stress.
+82.3,92.2,38.7,119/80,Low SpO2. Do deep breathing or go outside.
+85.3,86.5,36.7,111/75,🚨 Emergency! Call for help.
+84.7,95.4,38.4,110/76,Slight fever. Drink water and avoid stress.
+60.6,96.4,38.3,128/74,Slight fever. Drink water and avoid stress.
+82.4,88.9,38.1,118/75,🚨 Emergency! Call for help.
+80.1,94.7,38.2,113/72,Slight fever. Drink water and avoid stress.
+64.9,95.0,37.9,123/73,Slight fever. Drink water and avoid stress.
+90.2,89.9,36.3,127/77,🚨 Emergency! Call for help.
+86.8,91.6,36.0,120/77,Low SpO2. Do deep breathing or go outside.
+77.9,93.8,35.9,114/71,Low SpO2. Do deep breathing or go outside.
+111.4,99.1,35.7,149/85,Elevated heart rate. Take a walk or rest.
+95.7,94.1,35.7,126/77,All good. Stay healthy!
+94.6,85.8,37.1,130/78,🚨 Emergency! Call for help.
+95.2,95.9,38.0,122/79,Slight fever. Drink water and avoid stress.
+104.9,85.2,37.8,126/85,🚨 Emergency! Call for help.
+57.4,85.7,38.2,110/61,🚨 Emergency! Call for help.
+56.4,89.9,38.1,103/65,🚨 Emergency! Call for help.
+60.1,88.5,38.7,123/74,🚨 Emergency! Call for help.
+111.6,92.9,38.7,142/98,You are overheating. Rest and hydrate.
+100.0,93.7,38.0,119/71,Low SpO2. Do deep breathing or go outside.
+102.9,87.9,35.8,113/70,🚨 Emergency! Call for help.
+106.4,90.0,36.5,127/79,Low SpO2. Do deep breathing or go outside.
+115.5,89.0,38.8,147/98,🚨 Emergency! Call for help.
+103.1,91.5,38.3,117/70,You are overheating. Rest and hydrate.
+117.1,99.0,38.9,135/99,You are overheating. Rest and hydrate.
+113.6,98.5,36.0,141/94,Elevated heart rate. Take a walk or rest.
+75.9,88.2,37.0,128/71,🚨 Emergency! Call for help.
+114.4,91.1,36.9,142/93,Low SpO2. Do deep breathing or go outside.
+103.0,91.6,37.1,111/78,Low SpO2. Do deep breathing or go outside.
+74.8,85.9,36.7,127/81,🚨 Emergency! Call for help.
+63.9,94.9,36.1,116/81,All good. Stay healthy!
+97.2,94.3,38.0,119/72,Slight fever. Drink water and avoid stress.
+115.9,90.7,37.0,144/100,Low SpO2. Do deep breathing or go outside.
+103.6,88.0,37.3,117/78,🚨 Emergency! Call for help.
+68.7,96.6,37.2,129/77,All good. Stay healthy!
+112.1,94.8,38.4,159/95,You are overheating. Rest and hydrate.
+116.6,86.0,36.8,147/86,🚨 Emergency! Call for help.
+115.4,85.7,38.7,137/87,🚨 Emergency! Call for help.
+58.2,98.0,36.8,107/63,All good. Stay healthy!
+56.4,92.8,38.8,102/62,Low SpO2. Do deep breathing or go outside.
+112.9,95.3,37.8,141/96,Elevated heart rate. Take a walk or rest.
+111.8,87.7,38.8,153/87,🚨 Emergency! Call for help.
+125.3,96.2,38.0,147/85,You are overheating. Rest and hydrate.
+58.1,94.7,37.3,100/69,All good. Stay healthy!
+105.6,96.5,37.9,124/78,Elevated heart rate. Take a walk or rest.
+82.4,89.7,35.9,124/76,🚨 Emergency! Call for help.
+93.7,94.9,36.1,125/83,All good. Stay healthy!
+74.4,89.1,38.2,118/83,🚨 Emergency! Call for help.
+107.2,94.9,36.4,127/80,Elevated heart rate. Take a walk or rest.
+118.7,88.2,38.4,144/86,🚨 Emergency! Call for help.
+89.6,89.9,37.1,129/79,🚨 Emergency! Call for help.
+77.5,87.4,36.6,117/85,🚨 Emergency! Call for help.
+80.8,93.4,36.6,126/73,Low SpO2. Do deep breathing or go outside.
+59.1,86.0,36.5,94/65,🚨 Emergency! Call for help.
+117.3,95.1,37.9,138/95,Elevated heart rate. Take a walk or rest.
+61.0,89.3,35.6,118/73,🚨 Emergency! Call for help.
+82.9,90.1,36.6,124/77,Low SpO2. Do deep breathing or go outside.
+87.0,86.9,38.1,113/77,🚨 Emergency! Call for help.
+129.7,95.2,35.8,139/91,Elevated heart rate. Take a walk or rest.
+91.2,88.3,38.0,113/74,🚨 Emergency! Call for help.
+78.3,99.4,37.8,113/84,Slight fever. Drink water and avoid stress.
+100.2,96.5,36.3,121/70,Elevated heart rate. Take a walk or rest.
+88.2,97.5,38.8,120/80,Slight fever. Drink water and avoid stress.
+86.2,95.4,38.1,126/78,Slight fever. Drink water and avoid stress.
+77.3,85.6,37.2,122/74,🚨 Emergency! Call for help.
+80.3,85.5,37.9,111/78,🚨 Emergency! Call for help.
+123.8,85.5,36.3,139/86,🚨 Emergency! Call for help.
+104.3,89.3,36.2,114/74,🚨 Emergency! Call for help.
+113.6,85.4,35.7,140/92,🚨 Emergency! Call for help.
+74.7,93.1,37.3,126/80,Low SpO2. Do deep breathing or go outside.
+72.0,98.3,38.7,128/71,Slight fever. Drink water and avoid stress.
+119.7,91.5,35.7,137/100,Low SpO2. Do deep breathing or go outside.
+69.9,88.4,36.0,125/79,🚨 Emergency! Call for help.
+69.0,89.1,38.8,119/80,🚨 Emergency! Call for help.
+122.3,92.5,36.8,149/93,Low SpO2. Do deep breathing or go outside.
+124.4,85.1,38.5,147/93,🚨 Emergency! Call for help.
+57.0,88.8,35.7,101/67,🚨 Emergency! Call for help.
+82.2,87.0,37.2,126/81,🚨 Emergency! Call for help.
+100.0,87.6,38.4,122/75,🚨 Emergency! Call for help.
+57.7,93.5,38.5,100/70,Low SpO2. Do deep breathing or go outside.
+127.4,94.9,38.1,146/87,You are overheating. Rest and hydrate.
+58.0,89.3,37.7,110/64,🚨 Emergency! Call for help.
+66.4,90.0,37.7,110/71,Low SpO2. Do deep breathing or go outside.
+94.5,95.1,38.5,120/71,Slight fever. Drink water and avoid stress.
+66.8,93.0,37.6,114/80,Low SpO2. Do deep breathing or go outside.
+114.5,91.4,37.3,135/95,Low SpO2. Do deep breathing or go outside.
+60.6,91.5,36.9,119/83,Low SpO2. Do deep breathing or go outside.
+111.2,86.0,38.2,136/97,🚨 Emergency! Call for help.
+113.3,87.4,35.6,138/92,🚨 Emergency! Call for help.
+69.2,91.9,35.9,122/78,Low SpO2. Do deep breathing or go outside.
+115.6,90.3,36.6,157/87,Low SpO2. Do deep breathing or go outside.
+75.9,97.9,37.8,115/81,Slight fever. Drink water and avoid stress.
+79.0,87.4,37.5,121/75,🚨 Emergency! Call for help.
+64.2,94.9,37.4,122/70,All good. Stay healthy!
+115.3,92.7,38.4,158/86,You are overheating. Rest and hydrate.
+85.7,91.8,37.4,127/85,Low SpO2. Do deep breathing or go outside.
+88.9,89.0,36.1,113/82,🚨 Emergency! Call for help.
+105.2,93.8,37.7,119/84,Low SpO2. Do deep breathing or go outside.
+74.9,86.1,35.5,116/74,🚨 Emergency! Call for help.
+102.7,96.0,38.4,124/73,You are overheating. Rest and hydrate.
+116.2,90.2,36.1,137/97,Low SpO2. Do deep breathing or go outside.
+114.5,86.7,38.2,144/86,🚨 Emergency! Call for help.
+96.1,90.2,37.9,118/84,Low SpO2. Do deep breathing or go outside.
+127.8,91.0,37.3,142/85,Low SpO2. Do deep breathing or go outside.
+62.0,90.6,37.6,112/83,Low SpO2. Do deep breathing or go outside.
+81.6,85.3,36.4,123/73,🚨 Emergency! Call for help.
+66.0,91.3,39.0,120/75,Low SpO2. Do deep breathing or go outside.
+106.7,99.9,36.4,121/72,Elevated heart rate. Take a walk or rest.
+82.2,99.3,36.8,114/74,All good. Stay healthy!
+85.4,93.6,38.4,125/72,Low SpO2. Do deep breathing or go outside.
+93.1,85.4,36.9,128/85,🚨 Emergency! Call for help.
+69.8,89.4,36.1,125/80,🚨 Emergency! Call for help.
+108.4,90.1,37.2,120/79,Low SpO2. Do deep breathing or go outside.
+109.1,87.5,37.8,118/73,🚨 Emergency! Call for help.
+107.2,87.0,36.2,121/76,🚨 Emergency! Call for help.
+125.9,88.1,38.7,136/94,🚨 Emergency! Call for help.
+125.7,99.3,37.2,147/96,Elevated heart rate. Take a walk or rest.
+109.7,93.0,37.3,130/71,Low SpO2. Do deep breathing or go outside.
+66.5,87.6,35.9,128/85,🚨 Emergency! Call for help.
+104.3,92.6,38.2,125/75,You are overheating. Rest and hydrate.
+119.8,87.8,38.6,141/86,🚨 Emergency! Call for help.
+83.3,98.4,35.8,116/85,All good. Stay healthy!
+99.3,90.9,37.4,122/74,Low SpO2. Do deep breathing or go outside.
+88.1,99.4,38.3,123/80,Slight fever. Drink water and avoid stress.
+62.4,85.5,36.3,112/71,🚨 Emergency! Call for help.
+96.3,88.5,37.3,118/84,🚨 Emergency! Call for help.
+107.3,99.6,37.9,114/72,Elevated heart rate. Take a walk or rest.
+90.0,89.5,35.9,130/75,🚨 Emergency! Call for help.
+126.6,90.4,35.9,160/88,🚨 Emergency! Call for help.
+98.9,88.8,35.9,128/83,🚨 Emergency! Call for help.
+114.7,99.6,36.8,147/93,Elevated heart rate. Take a walk or rest.
+111.3,91.8,36.0,155/95,Low SpO2. Do deep breathing or go outside.
+98.0,94.9,38.9,130/81,Slight fever. Drink water and avoid stress.
+129.9,87.5,38.5,150/98,🚨 Emergency! Call for help.
+110.4,93.2,36.6,154/100,Low SpO2. Do deep breathing or go outside.
+101.1,94.2,37.1,110/83,Elevated heart rate. Take a walk or rest.
+67.9,96.4,35.6,110/79,All good. Stay healthy!
+111.4,91.9,38.4,160/91,🚨 Emergency! Call for help.
+122.9,85.8,38.7,150/100,🚨 Emergency! Call for help.
+128.4,93.5,37.7,141/95,Low SpO2. Do deep breathing or go outside.
+74.7,95.4,37.0,118/85,All good. Stay healthy!
+121.7,90.3,36.6,155/96,Low SpO2. Do deep breathing or go outside.
+78.0,95.8,36.7,114/72,All good. Stay healthy!
+99.0,96.3,38.8,116/74,Slight fever. Drink water and avoid stress.
+83.9,92.6,35.9,128/84,Low SpO2. Do deep breathing or go outside.
+107.8,97.7,36.0,110/70,Elevated heart rate. Take a walk or rest.
+119.8,96.8,38.9,152/86,You are overheating. Rest and hydrate.
+80.4,87.4,38.9,119/78,🚨 Emergency! Call for help.
+58.7,94.9,36.5,96/70,All good. Stay healthy!
+78.0,88.3,35.9,118/72,🚨 Emergency! Call for help.
+128.1,90.1,37.9,140/100,Low SpO2. Do deep breathing or go outside.
+129.5,92.7,35.8,141/96,Low SpO2. Do deep breathing or go outside.
+93.3,98.6,38.4,112/82,Slight fever. Drink water and avoid stress.
+91.6,98.7,36.3,121/83,All good. Stay healthy!
+122.1,86.6,38.7,136/99,🚨 Emergency! Call for help.
+80.0,87.7,37.4,125/73,🚨 Emergency! Call for help.
+84.3,90.5,37.4,128/73,Low SpO2. Do deep breathing or go outside.
+82.0,95.3,38.8,129/81,Slight fever. Drink water and avoid stress.
+64.7,85.6,39.0,114/80,🚨 Emergency! Call for help.
+95.3,89.7,38.6,123/85,🚨 Emergency! Call for help.
+110.3,97.3,38.4,136/99,You are overheating. Rest and hydrate.
+56.8,96.5,38.3,107/60,Slight fever. Drink water and avoid stress.
+83.7,96.1,35.5,123/72,All good. Stay healthy!
+81.2,94.1,38.7,123/75,Slight fever. Drink water and avoid stress.
+101.3,89.0,38.6,129/72,🚨 Emergency! Call for help.
+84.0,88.4,36.7,130/74,🚨 Emergency! Call for help.
+103.7,94.6,36.3,128/73,Elevated heart rate. Take a walk or rest.
+104.3,95.0,38.6,125/85,You are overheating. Rest and hydrate.
+97.4,92.0,35.9,121/76,Low SpO2. Do deep breathing or go outside.
+123.6,94.1,36.0,143/96,Elevated heart rate. Take a walk or rest.
+129.3,98.4,38.9,140/95,You are overheating. Rest and hydrate.
+115.6,94.4,37.3,137/85,Elevated heart rate. Take a walk or rest.
+109.2,96.8,38.6,120/73,You are overheating. Rest and hydrate.
